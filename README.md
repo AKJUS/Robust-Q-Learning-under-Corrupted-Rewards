@@ -7,7 +7,7 @@ This numerical simulation aligns with our proven result, accepted for presentati
 <table>
   <tr>
     <td>
-      <img src="https://github.com/sreejeetm1729/Robust_Reinforcement_Learning_CDC/blob/main/Figures%20and%20Plots" style="width:500px">
+      <img src="https://github.com/sreejeetm1729/Robust_Reinforcement_Learning_CDC/blob/main/Figures%20and%20Plots" style="width:800px">
     </td>
   </tr>
 
