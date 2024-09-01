@@ -4,6 +4,11 @@ Recently, there has been a growing interest in understanding the non-asymptotic 
 Test Case:  Consider the MDP depicted in the figure. In the absence of attacks, state 1 yields a reward of $d$ when taking action $a = L$ and a reward of $-d$ for action $a = R$, where $d > 0$. States 2 and 3 provide a reward of 1, while states 4 and 5 provide a reward of 0. Under a Huber attack model, the rewards in state $s = 1$ are perturbed: for the state-action pair $(1, L)$, the reward is $d$ with probability $1-\varepsilon$ and $-C$ with probability $\varepsilon$; for $(1, R)$, the reward is $-d$ with probability $1-\varepsilon$ and $C$ with probability $\varepsilon$. The corruption signal $C$ is defined as $\left((2-\varepsilon)d + \kappa\right) \varepsilon^{-1}$, where $\kappa > 0$ is a tunable parameter. The error norm $\lVert Q_t - Q^* \rVert_\infty$ is plotted for both the Vanilla Q-Learning Algorithm under corruption with $\varepsilon = 0.01$ (red) and our proposed $\varepsilon$-Robust TD Learning Algorithm under the same corruption level (blue), highlighting the significant improvement of our approach.
 
 This numerical simulation aligns with our proven result, accepted for presentation, and publication at the 63rd IEEE Conference on Decision and Control.
-
+<table>
+  <tr>
+    <td>
+      <img src="" style="width:400px">
+    </td>
+  </tr>
 
 
