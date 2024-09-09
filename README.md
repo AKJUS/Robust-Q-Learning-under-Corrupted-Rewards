@@ -9,6 +9,9 @@ This numerical simulation aligns with our proven result, accepted for presentati
     <td>
       <img src="https://github.com/sreejeetm1729/Robust_Reinforcement_Learning_CDC/blob/main/Figures%20and%20Plots" style="width:800px">
     </td>
+    <td>
+      <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Q_learning_convergence_plot_with_different_epsilons" style="width:800px">
+    </td>
   </tr>
 
 
