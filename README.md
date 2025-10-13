@@ -25,12 +25,12 @@ This numerical simulation aligns with our proven result, accepted for presentati
 <table>
   <tr>
     <td>
-      <img src="https://github.com/sreejeetm1729/Robust_Reinforcement_Learning_CDC/blob/main/Figures%20and%20Plots" style="width:800px">
+      <img src="https://github.com/sreejeetm1729/Robust_Reinforcement_Learning_CDC/blob/main/Figures%20and%20Plots" style="width:760px">
     </td>
   </tr>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Q_learning_convergence_plot_with_different_epsilons.png" style="width:400px">
-    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Robust_Q_learning_convergence_plot_with_different_epsilons.png" style="width:400px">
+    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Q_learning_convergence_plot_with_different_epsilons.png" style="width:3800px">
+    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Robust_Q_learning_convergence_plot_with_different_epsilons.png" style="width:3800px">
  </td>
 </tr>
